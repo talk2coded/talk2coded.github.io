@@ -16,5 +16,5 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 #LINK TO MY LIVE PAGE
-To view the live page of this pixel art mark, click [here] (http://talk2coded.github.io/
+To view the live page of this pixel art mark, click [here](http://talk2coded.github.io/
 
