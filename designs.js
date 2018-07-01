@@ -32,7 +32,7 @@
  	}
 
  	$('td').click(function() {
- 		let color = $('#colorPicker').val();
+ 		const color = $('#colorPicker').val();
  		if ($(this).attr('style')) {
  			$(this).removeAttr('style');
  		}else {
